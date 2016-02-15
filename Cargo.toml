@@ -1,6 +1,6 @@
 [package]
 name = "karacybi"
 version = "0.1.0"
-authors = ["srusskih <srusskih@getgoing.net>"]
+authors = ["srusskih"]
 
 [dependencies]
